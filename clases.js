@@ -60,6 +60,7 @@ export class gato extends animal {
 }
 
 //callBack
+// conciste en enviar una clase, funcion o metodo a otra clase funcion o metodo que esta disponga de todo lo que el parametro tenga
 export class emisor {
     imprimir() {
         console.log("metodo del emisor")
